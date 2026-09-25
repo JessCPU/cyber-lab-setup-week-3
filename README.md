@@ -46,11 +46,16 @@ The following screenshot demonstrates the Networkwalks Hash Calculator successfu
 
 The following image proves successful password recovery, showing the decrypted PDF displaying the captured flag and a "Congratulations!" message.
 
+
 ![Decrypted PDF](images/My-Locked-PDF1.png)
 
 
 
+---
+
+
 This secondary flag was captured after successfully executing a dictionary attack, demonstrating the importance of patience and selecting the right wordlist
+
 
 ![Decrypted PDF](images/My-Locked-PDF2.png)
 
