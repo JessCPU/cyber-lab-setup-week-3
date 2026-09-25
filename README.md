@@ -16,6 +16,7 @@ A fundamental concept reinforced in this module is the critical distinction betw
 
 ## 🔓 W3-PM1 — Password Cracking with JTR
 
+
 The first mandatory module leveraged **John the Ripper (JTR)** to execute an authorized password extraction and recovery process on secured PDF documents.
 
 The workflow covered setting up the local environment, extracting the target PDF hashes, running dictionary candidates, analyzing the output, and finally validating the cracked passwords against the original files.
@@ -34,6 +35,7 @@ This phase documented the full recovery lifecycle—from extracting the initial 
 
 ## 📸 Visual Evidence
 
+
 ### Hash Extraction
 
 The following screenshot demonstrates the Networkwalks Hash Calculator successfully extracting a crackable `$pdf$` hash from the protected `My-Locked-PDF1.pdf` file.
@@ -46,9 +48,14 @@ The following image proves successful password recovery, showing the decrypted P
 
 ![Decrypted PDF](images/My-Locked-PDF1.png)
 
+
+
 This secondary flag was captured after successfully executing a dictionary attack, demonstrating the importance of patience and selecting the right wordlist
 
 ![Decrypted PDF](images/My-Locked-PDF2.png)
+
+
+---
 
 
 
@@ -64,6 +71,8 @@ This optional exercise explored an **AI-driven security workflow** by integratin
 
 The documented process covers the complete setup lifecycle: initial software installation, preparing dependencies, configuring the MCP, verifying server connectivity, and executing the designated password-cracking assignments.
 
+---
+
 
 ### Challenge Encountered
 Setting up the dependencies and finalizing the MCP configuration required significant troubleshooting before the environment became operational. I intentionally preserved the evidence of these initial setup hurdles in the documentation, as recording errors and their subsequent fixes is essential for demonstrating realistic, reproducible lab work.
@@ -77,6 +86,7 @@ The final optional module involved conducting an authorized authentication attac
 I tested various wordlists and applied multiple troubleshooting techniques throughout the process. Ultimately, **no valid credentials were recovered during the testing window**, and subsequent analysis revealed connectivity limitations with the target infrastructure.
 
 Consequently, the status of this module is officially recorded as:
+
 
 ### ⚠️ Best-Effort Attempt — No Valid Password Recovered
 
