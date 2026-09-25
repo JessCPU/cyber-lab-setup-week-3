@@ -78,6 +78,22 @@ The documented process covers the complete setup lifecycle: initial software ins
 
 ---
 
+## 📂 Repository Structure
+
+
+```text
+
+cyber-lab-setup-week-3/
+├── images/
+│   ├── .gitkeep
+│   ├── Hash-Calculator.png
+│   ├── My-Locked-PDF1.png
+│   └── My-Locked-PDF2.png
+└── README.md
+```
+
+---
+
 
 ### Challenge Encountered
 Setting up the dependencies and finalizing the MCP configuration required significant troubleshooting before the environment became operational. I intentionally preserved the evidence of these initial setup hurdles in the documentation, as recording errors and their subsequent fixes is essential for demonstrating realistic, reproducible lab work.
