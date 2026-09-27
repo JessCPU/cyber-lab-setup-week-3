@@ -12,6 +12,9 @@ A fundamental concept reinforced in this module is the critical distinction betw
 *   **Encryption:** A two-way function designed to protect sensitive information; encrypted data can be reliably decrypted back into plain text if the user possesses the correct cryptographic key.
 *   **Hashing:** A one-way mathematical function used to validate information. It scrambles plain text to produce a unique message digest that cannot be natively reversed or "decrypted" without utilizing cracking techniques.
 
+---
+
+
 
 ## 🔓 W3-PM1 — Password Cracking with JTR
 
@@ -168,6 +171,13 @@ The following tools, software, and resources were utilized to conduct the passwo
 
 ## 👤 Author
 
+**Jessica Mordaa**  
+Computer Science Student
+
+**LinkedIn:** [https://www.linkedin.com/in/jessica-m-63b958321](https://www.linkedin.com/in/jessica-m-63b958321?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+
+---
 
 
 
