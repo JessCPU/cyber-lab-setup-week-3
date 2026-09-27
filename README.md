@@ -1,6 +1,5 @@
-# 🔐 Networkwalks B082 - Week 3
+# 🔐 Authentication Attacks & Password Cracking - Week 3
 
-## Authentication Attacks & Password Cracking
 
 ## 📌 Project Overview
 
